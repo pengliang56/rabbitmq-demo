@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 47.113.114.7
+    port: 5672
+    username: alice
+    password: a1349857519&
+    virtual-host: /var
+server:
+  port: 9999
